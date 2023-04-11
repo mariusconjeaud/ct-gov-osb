@@ -1,4 +1,4 @@
-*.csv
+studies_with_concepts_and_embeddings.csv
 *.xlsx
 
 # Byte-compiled / optimized / DLL files
