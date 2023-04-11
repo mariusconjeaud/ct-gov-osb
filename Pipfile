@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+neo4j = "*"
+graphdatascience = "*"
+python-dotenv = "*"
 
 [dev-packages]
 ipykernel = "*"
